@@ -30,13 +30,13 @@
 
 - 首页
 
- ![首页 (0)](D:\program\meituan\md\首页 (0).gif)
+ ![首页 (0)](\md\首页 (0).gif)
 
 
 
 - 详情页
 
- ![详情页(0)](D:\program\meituan\md\详情页(0).gif)
+ ![详情页(0)](\md\详情页(0).gif)
 
 ------
 
