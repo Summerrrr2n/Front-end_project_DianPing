@@ -30,13 +30,13 @@
 
 - 首页
 
- ![首页 (0)](md/首页 (0).gif)
+ ![首页 (0)](pictures/%E9%A6%96%E9%A1%B5%20(0).gif)
 
 
 
 - 详情页
 
- ![详情页(0)](\md\详情页(0).gif)
+ ![详情页(0)](pictures/%E8%AF%A6%E6%83%85%E9%A1%B5(0).gif)
 
 ------
 
@@ -46,13 +46,13 @@
 
 - 搜索框载入相关关键词  &  搜索结果页
 
- ![搜索页(0)](D:\program\meituan\md\搜索页(0).gif)
+ ![搜索页(0)](pictures/%E6%90%9C%E7%B4%A2%E9%A1%B5(0).gif)
 
 
 
 - 热门关键词、清除历史搜索记录、取消返回首页
 
- ![搜索页(1)](D:\program\meituan\md\搜索页(1).gif)
+ ![搜索页(1)](pictures/%E6%90%9C%E7%B4%A2%E9%A1%B5(1).gif)
 
 ------
 
@@ -64,7 +64,7 @@
 
 账号密码登录  &   注销
 
- ![登录页(0)](D:\program\meituan\md\登录页(0).gif)
+ ![登录页(0)](pictures/%E7%99%BB%E5%BD%95%E9%A1%B5(0).gif)
 
 
 
@@ -72,15 +72,13 @@
 
 未登录状态
 
- ![购买(0)](D:\program\meituan\md\购买(0).gif)
+ ![购买(0)](pictures/%E8%B4%AD%E4%B9%B0(0).gif)
 
 
 
 登录状态
 
- ![购买(1)](D:\program\meituan\md\购买(1).gif)
-
-
+ ![购买(1)](pictures/%E8%B4%AD%E4%B9%B0(1).gif)
 
 
 
@@ -88,17 +86,13 @@
 
 订单评价&删除
 
- ![个人中心(0)](D:\program\meituan\md\个人中心(0).gif)
+ ![个人中心(0)](pictures/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83(0).gif)
 
 
 
 ### 状态管理
 
- ![状态管理](D:\program\meituan\md\状态管理.png)
-
-
-
-
+ ![状态管理](pictures/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86.png)
 
 
 
