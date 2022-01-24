@@ -1,6 +1,6 @@
 ### 简介
 
-
+live 地址：https://affectionate-leavitt-57854c.netlify.app/
 
 用React16+Redux实现大众点评Web App的**首页**、**搜索页**、**详情页**、以及**登录-用户-个人中心页**。
 
